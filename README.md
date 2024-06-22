@@ -5,3 +5,10 @@ techstack:
 Frontend TBD  
 Backend: Java  
 Database: Postgres
+
+Started Project with these dependencies:   
+Spring boot devTools  
+PostgresSQL Driver  
+Spring Web  
+
+
